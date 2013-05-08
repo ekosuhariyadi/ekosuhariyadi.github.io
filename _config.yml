@@ -2,6 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
+# Facebook comments
+facebook_appid: 658005740881976
+
 url: http://ekosuhariyadi.github.io
 title: Live to Code | Muda Sukses Mulia
 subtitle: Giving impact through my codes
